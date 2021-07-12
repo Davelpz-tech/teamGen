@@ -1,0 +1,27 @@
+{
+  "name": "teamgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --env=node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davelpz-tech/teamGen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davelpz-tech/teamGen/issues"
+  },
+  "homepage": "https://github.com/Davelpz-tech/teamGen#readme"
+}
